@@ -1,5 +1,5 @@
 
-import type { Destaque } from './types';
+import type { Destaque } from '../types';
 
 interface Props {
   destaques: Destaque[];

@@ -1,5 +1,5 @@
 
-import type { Desconto as DescontoType } from './types';
+import type { Desconto as DescontoType } from '../types';
 
 interface Props {
   desconto?: DescontoType;
